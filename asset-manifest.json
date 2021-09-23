@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactWebHosted/static/css/main.a617e044.chunk.css",
+    "main.js": "/reactWebHosted/static/js/main.ed3e041d.chunk.js",
+    "main.js.map": "/reactWebHosted/static/js/main.ed3e041d.chunk.js.map",
+    "runtime-main.js": "/reactWebHosted/static/js/runtime-main.b71ccaad.js",
+    "runtime-main.js.map": "/reactWebHosted/static/js/runtime-main.b71ccaad.js.map",
+    "static/js/2.82bb0812.chunk.js": "/reactWebHosted/static/js/2.82bb0812.chunk.js",
+    "static/js/2.82bb0812.chunk.js.map": "/reactWebHosted/static/js/2.82bb0812.chunk.js.map",
+    "static/js/3.fce13bba.chunk.js": "/reactWebHosted/static/js/3.fce13bba.chunk.js",
+    "static/js/3.fce13bba.chunk.js.map": "/reactWebHosted/static/js/3.fce13bba.chunk.js.map",
+    "index.html": "/reactWebHosted/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/reactWebHosted/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.82bb0812.chunk.js.LICENSE.txt": "/reactWebHosted/static/js/2.82bb0812.chunk.js.LICENSE.txt",
+    "static/media/logo.c3a347f7.svg": "/reactWebHosted/static/media/logo.c3a347f7.svg",
+    "static/media/logoMobile.c3a347f7.svg": "/reactWebHosted/static/media/logoMobile.c3a347f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b71ccaad.js",
+    "static/js/2.82bb0812.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ed3e041d.chunk.js"
+  ]
+}
